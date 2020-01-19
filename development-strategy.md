@@ -1,13 +1,12 @@
 # Development Strategy
 
-> add one row to this table for each user story you define
 
 | _Step Name_ | User Story | Changes in HTML | Changes in CSS |
 | --- | --- | --- | --- |
-| __Live Boilerplate__ | As an enthusiastic HYF student I can navigate to an empty website so that I know the project is set up correctly | An empty template project with `doctype`, language, charset, `head` & `body` | an empty file |
-|  | |  |  |
-| ... | ... | ... | ... |
-| (descriptive name) | (user story) | (what did you add to the HTML?) | (what did you add to the CSS?) |
+| HTML content | As an enthusiastic HYF student I can build the HTML structure so that I have a good semantic base to build upon | An full template project with `doctype`, language, charset, `head` & `body` | an empty file |
+| Mobile version CSS code | As an enthusiastic HYF student I can write the CSS code for the mobile version mock-up so that I have a perfectly arranged mobile version | no changes | CSS for the layout of the mobile version |
+| Tablet version CSS code | As an enthusiastic HYF student I can write the CSS code for the tablet version mock-up so that I have a perfectly arranged the layout for tablet screens | no changes | CSS for the layout of the tablet version |
+| Desktop version CSS code | As an enthusiastic HYF student I can write the CSS code for the desktop version mock-up so that I have a perfectly arranged the layout for PC's | no changes | CSS for the layout of the desktop version |
 
 
 ---
